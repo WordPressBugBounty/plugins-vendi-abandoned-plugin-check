@@ -1,0 +1,1 @@
+# plugins-vendi-abandoned-plugin-check
